@@ -1,16 +1,20 @@
 ## Hi there 👋
+Ali Zeiaei
+Full-Stack Developer | AI Engineering
 
-<!--
-**alizeiaei/alizeiaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT ME
+Building scalable web applications
+and AI-powered systems.
 
-Here are some ideas to get you started:
+TECH STACK
+Frontend: Next.js, React, TypeScript
+Backend: Node.js, REST APIs
+Database: MySQL, SQL
+AI/ML: Python, LLMs, Ollama
+Tools: Git, Docker, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FEATURED PROJECTS
+01. Vitrinu — AI-Powered Product Platform
+02. AI Research Agent
+03. Full-Stack Authentication System
+04. Machine Learning Project
